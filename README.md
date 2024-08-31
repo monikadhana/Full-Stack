@@ -1,1 +1,1 @@
-frontend part of the project
+backend part of the project
